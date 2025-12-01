@@ -9,7 +9,7 @@
 
 ## About Laravel
 
-##Tein tutoriaalin: Laravel 12 For Beginners: Your First Project kohdat 1-9, mutta en tehnyt siitä eteenpäin koska loput osat olisivat ollet Laravel Breeze asioita.
+## Tein tutoriaalin: Laravel 12 For Beginners: Your First Project kohdat 1-9, mutta en tehnyt siitä eteenpäin koska loput osat olisivat ollet Laravel Breeze asioita.
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
